@@ -9,12 +9,4 @@
   "start_url": "/",
   "theme_color": "#02060e",
   "lang": "en"
-"icons": [
-    {
-      "src": "gemini-svg.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
 }
